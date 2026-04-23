@@ -16,13 +16,13 @@
       "supportsTablet": true
     },
     "android": {
-      "package": "com.xamin.app"
-      "adaptiveIcon": {
-        "foregroundImage": "./assets/adaptive-icon.png",
-        "backgroundColor": "#ffffff"
-      },
-      "edgeToEdgeEnabled": true
-    },
+  "package": "com.xamin.app",
+  "adaptiveIcon": {
+    "foregroundImage": "./assets/adaptive-icon.png",
+    "backgroundColor": "#ffffff"
+  },
+  "edgeToEdgeEnabled": true
+}
     "web": {
       "favicon": "./assets/favicon.png"
     }
